@@ -1,6 +1,3 @@
-# PersianPoetVec
-PersianPoetVec: A Word2Vec model trained on the complete works of Saadi, Hafez, and Rumi (Masnavi and Diwan-e Shams). Using Gensim, this project creates embeddings that capture the unique semantics of classical Persian poetry, allowing for insightful comparisons with Google’s 2013 Word2Vec model.
-
 # Poetry Word2Vec Embeddings
 
 This project aims to create word embeddings specifically for Persian poetry, using the works of Saadi, Hafez, and Rumi. The Word2Vec model is used to generate vector representations for words in the corpus. Additionally, you can compare the embeddings with pre-trained Word2Vec models, such as Google's pre-trained model for English.
