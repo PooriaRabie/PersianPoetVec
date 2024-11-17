@@ -1,4 +1,4 @@
-# Poetry Word2Vec Embeddings
+# Poetry Word Embeddings
 
 
 ## Introduction
@@ -6,7 +6,7 @@ This project aims to generate high-quality word embeddings for Persian poetry, f
 
 The embeddings from these custom-trained models are compared with the widely-used, pre-trained models in each algorithm—Google's pre-trained Word2Vec model for English, as well as pre-trained GloVe and FastText models. By contrasting these, we aim to highlight the effectiveness of custom-trained Persian embeddings against more general-purpose English models, demonstrating their potential for applications specific to Persian literature and linguistics.
 
-## How to Use
+## How to Use (Word2Vec)
 
 ### Step 1: Download Pre-trained Word2Vec Model
 
