@@ -29,7 +29,7 @@ Make sure you have the required libraries installed:
 
 After setting everything up, you can start using the Word2Vec embeddings for your project.
 
-### How to Use (GloVe)
+## How to Use (GloVe)
 
 ### Step 1: Download Pre-trained GloVe Model
 To use the pre-trained GloVe embeddings, follow these steps:
