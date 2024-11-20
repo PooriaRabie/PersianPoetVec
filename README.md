@@ -6,6 +6,20 @@ This project aims to generate high-quality word embeddings for Persian poetry, f
 
 The embeddings from these custom-trained models are compared with the widely-used, pre-trained models in each algorithm—Google's pre-trained Word2Vec model for English, as well as pre-trained GloVe and FastText models. By contrasting these, we aim to highlight the effectiveness of custom-trained Persian embeddings against more general-purpose English models, demonstrating their potential for applications specific to Persian literature and linguistics.
 
+## **How to Access Large Files in This Repository**
+
+GitHub has a file size limit of 25 MB, so files exceeding this limit are hosted separately on Google Drive. To access all files larger than 25 MB, follow these steps:
+
+1. **Visit the Google Drive Link**  
+   Access the complete set of large files by clicking [here](https://drive.google.com/drive/folders/1vBDCuXIhccgEeQkN6YNrK8k_kBmhKbkf?usp=sharing).
+
+2. **Download the Required Files**  
+   Browse the Google Drive folder and download the files relevant to your needs.
+
+3. **Place the Files in the Correct Directory**  
+   After downloading, place the files into the appropriate directories as specified in the repository's structure or documentation.
+
+
 ## How to Use (Word2Vec)
 
 ### Step 1: Download Pre-trained Word2Vec Model
