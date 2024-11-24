@@ -4,7 +4,7 @@
 ## Introduction
 This project aims to generate high-quality word embeddings for Persian poetry, focusing on the works of Hafez, Saadi, and Rumi (including Diwan-e Shams and Masnavi). Word embeddings are created using several algorithms—Word2Vec, GloVe, and FastText—to capture the unique semantic relationships and poetic language within these classic texts. Each model is trained on the Persian corpus, resulting in embeddings that reflect the specific cultural and linguistic nuances of Persian poetry.
 
-The embeddings from these custom-trained models are compared with the widely-used, pre-trained models in each algorithm—Google's pre-trained Word2Vec model for English, as well as pre-trained GloVe and FastText models. By contrasting these, we aim to highlight the effectiveness of custom-trained Persian embeddings against more general-purpose English models, demonstrating their potential for applications specific to Persian literature and linguistics.
+The embeddings from these custom-trained models are compared with the widely-used, pre-trained models in each algorithm—Google's pre-trained Word2Vec model for English, as well as pre-trained GloVe and Persian FastText models. By contrasting these, we aim to highlight the effectiveness of custom-trained Persian embeddings against more general-purpose English models, demonstrating their potential for applications specific to Persian literature and linguistics.
 
 ## **How to Access Large Files in This Repository**
 
