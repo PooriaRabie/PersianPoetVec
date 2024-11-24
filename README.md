@@ -74,8 +74,6 @@ To use the pre-trained FastText embeddings, follow these steps:
 3. Choose the `text` (.vec) version of the file for compatibility.
 4. After downloading, place the `.vec` file into the `Model` directory of this repository.
 
----
-
 ### Step 2: Set Up the Environment
 Make sure you have the required libraries installed:
 
