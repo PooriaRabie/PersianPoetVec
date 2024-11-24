@@ -64,4 +64,32 @@ Make sure you have the required libraries installed:
 
 After setting everything up, you can start using the GloVe embeddings for your project.
 
+## How to Use (FastText)
+
+### Step 1: Download Pre-trained FastText Model
+To use the pre-trained FastText embeddings, follow these steps:
+
+1. Visit the [FastText official website](https://fasttext.cc/docs/en/crawl-vectors.html).
+2. Under the **"Models"** section, find and download the **Persian** model.
+3. Choose the `text` (.vec) version of the file for compatibility.
+4. After downloading, place the `.vec` file into the `Model` directory of this repository.
+
+---
+
+### Step 2: Set Up the Environment
+Make sure you have the required libraries installed:
+
+1. Navigate to the `Requirements` directory in this repository.
+
+2. Install the dependencies using the following command:
+
+   ```bash
+   pip install -r requirementsFastText.txt
+   ```
+After setting everything up, you can start using the FastText embeddings for your project.
+
+
+
+
+
 
